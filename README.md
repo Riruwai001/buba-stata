@@ -1,0 +1,2 @@
+# buba-stata
+say,Hi.
